@@ -1,8 +1,8 @@
 # 官方文档
 ### 声明 Statement
-本文档结构基于"Compass 1.0 basic"撰写。
+本文档结构基于"Compass 0.1.0-alpha"撰写。
 
-the structure of this doc is following "Compass 1.0 b".
+the structure of this doc is following "Compass 0.1.0-alpha".
 ## 结构 Structure
 - **纯粹分类**
   上级：
