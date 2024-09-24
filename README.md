@@ -1,7 +1,8 @@
 # 官方文档
-### 声明 Statement
-本文档结构基于"Compass 0.1.0-alpha"撰写。
-
+#### ver: 0.1.0 beta
+最近的更新：VCD-t曲线拟合包
+#### 声明 Statement
+本文档结构基于"Compass 0.1.0-alpha"撰写。<br>
 the structure of this doc is following "Compass 0.1.0-alpha".
 ## 结构 Structure
 - **纯粹分类**
